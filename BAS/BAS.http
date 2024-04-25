@@ -1,0 +1,6 @@
+@BAS_HostAddress = http://localhost:5201
+
+GET {{BAS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
